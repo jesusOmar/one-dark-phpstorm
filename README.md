@@ -9,11 +9,19 @@ Original ONE Dark Syntax color scheme developed for https://atom.io/
 Adapted for Jetbrains PhpStorm by:
 Jesus Fernandez <hello@jesusomar.com>
 
+Screenshots
+---------
+![One Dark](https://raw.githubusercontent.com/jesusOmar/one-dark-phpstorm/master/screenshot.png)
+
 Downloads
 ---------
+[One-Dark-PhpStorm](https://raw.githubusercontent.com/jesusOmar/one-dark-phpstorm/master/One%20Dark.icls)
 
-[Atom homepage]:   https://atom.io/
-[ONE Dark Syntax repository]: https://github.com/atom/one-dark-syntax
+[PhpStorm](https://www.jetbrains.com/phpstorm/)
+
+[Atom homepage](https://atom.io/)
+
+[ONE Dark Syntax repository](https://github.com/atom/one-dark-syntax)
 
 Installation
 ------------
@@ -30,5 +38,3 @@ Installation
 2. Restart PhpStorm
 
 3. Go to `Preferences | Editor | Colors & Fonts` and select One Dark.
-
-![One Dark](https://raw.githubusercontent.com/jesusOmar/one-dark-phpstorm/master/screenshot.png)
