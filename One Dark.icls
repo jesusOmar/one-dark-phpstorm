@@ -2,11 +2,11 @@
   <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
-    <option name="CARET_ROW_COLOR" value="292c33" />
+    <option name="CARET_ROW_COLOR" value="2c323c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="242424" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -32,8 +32,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="0" />
     <option name="SELECTED_TEARLINE_COLOR" value="898941" />
-    <option name="SELECTION_BACKGROUND" value="898941" />
-    <option name="SELECTION_FOREGROUND" value="0" />
+    <option name="SELECTION_BACKGROUND" value="3e4451" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="656565" />
     <option name="WHITESPACES" value="505050" />
   </colors>
@@ -465,7 +465,7 @@
     <option name="JS.BRACES">
       <value>
         <option name="FOREGROUND" value="abb2b6" />
-        <option name="BACKGROUND" value="292c33" />
+        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="JS.DOC_COMMENT">
@@ -629,7 +629,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="6b707a" />
-        <option name="BACKGROUND" value="292c33" />
+        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
