@@ -28,6 +28,12 @@ Installation
 
 ### Option 1: Manual installation
 
+    Note: Looks like the newer version of PhpStorm changed the location of the files, It now seems to be:
+
+    On Mac it is in `~/Library/Preferences/PhpStorm<version>/colors`.
+
+    Where <version> is 2016.1 currently (i.e. PhpStorm2016.1/colors)
+
 1.  Copy `One Dark.icls` to your PhpStorm preferences:
   - On Linux it is in  `/home/<username>/.WebIde<version>0/config/colors`.
   - On Mac it is in `~/Library/Preferences/WebIde<version>0/colors`.
